@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack AI",
+  "description": "AI-Driven Sustainable Carbon Footprint Management System with OCR bill scanner, food & waste vision AI, GPS transport tracker, predictive analytics, and sustainability AI assistant.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
